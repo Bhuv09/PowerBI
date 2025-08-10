@@ -12,4 +12,5 @@
 - **Slicers:** Provides interactive filtering by demographics and regions for in-depth analysis.
 
 ## Dashboard Preview
+![Blinkit Dashboard](dashboard.jpeg)
 
